@@ -1,0 +1,7 @@
+Requires: perl-Test-WWW-Mechanize perl-TermReadKey
+AutoReqProv: no 
+Summary: Nagios check for CAS that uses WWW:Mechanize::FormFiller
+Group: Generic Group
+License: Generic License
+Vendor: Generic Vendor
+BuildArch: noarch
